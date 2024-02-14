@@ -1,0 +1,15 @@
+.Hero{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60vh;
+  background-color: aqua;  
+  padding-inline: 10rem;
+}
+
+.form{
+  width: 20vw;
+  height: 55vh;
+  background-color: black;
+  
+}

@@ -1,0 +1,26 @@
+.footer{
+height: 21rem;
+width: 100%;
+background-color: yellowgreen;
+text-align: center;
+
+
+}
+
+
+.footercomp{
+    height: 18rem;
+    width: 100%;
+    background-color: blue;
+    display: flex;
+}
+
+h5{
+    text-align: left;
+    padding-left: 50px;
+    margin-top: 50px;
+}
+
+
+
+

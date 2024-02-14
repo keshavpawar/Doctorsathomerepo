@@ -1,0 +1,18 @@
+.maincard{
+    background-color:red;
+    height: 250px;
+    width: 100;
+    display: flex;
+   justify-content: space-around;
+   align-items: center; 
+    
+    
+}
+
+.card{
+    height: 200px;
+    width: 180px;
+    background-color: yellow;
+    display: flex;
+   
+}

@@ -1,0 +1,23 @@
+.planbg{
+    background-color: blue;
+    height: 30rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+    
+   
+}
+
+.plan{
+    background-color: aliceblue;
+    height: 24rem;
+    width: 18rem;
+    text-align: center;
+    margin-top: 50px;
+    
+    
+}
